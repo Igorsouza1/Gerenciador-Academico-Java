@@ -14,7 +14,7 @@ O sistema solicita o código do curso a ser editado, busca o curso e possibilita
 
 ![image](https://user-images.githubusercontent.com/71149968/123691232-5a937400-d823-11eb-9095-cb17a1585551.png)
 
-## Ecluir
+## Excluir
 O sistema solicita o código do curso a ser exlcuido, emite aviso se a operação foi bem sucedida ou se o código nao for encontrado.
 
 ![image](https://user-images.githubusercontent.com/71149968/123691311-75fe7f00-d823-11eb-8464-cb6b72fe5e85.png)
