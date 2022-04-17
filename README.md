@@ -1,7 +1,29 @@
 # JavaSistemaAcademico
 
+### 📋Sobre
 Sistema de cadastro, edição, exclusão e listagem de cursos utilizando java com padrão DAO.
-Conexão no banco de dados atraves da API JDBC com Banco de dados MySQL.
+Conexão no banco de dados atraves do JDBC com Banco de dados MySQL.
+
+### 💻 Pré-requisitos
+
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
+
+* Você instalou: `<JRE: 14 / MySql-Conector8.0 / MySQLDB`
+* Você tem uma máquina `<Windows / Linux / Mac>`.
+
+## 🚀 Usando Java Sistema Academico
+
+Para instalar siga estas etapas:
+
+```
+Git clone https://github.com/Igorsouza1/Java-Sistema-Cursos.git
+```
+- Adicione a JRE 14
+- Adicione a dependecia MySQL-Conector-8.0
+- Crie um banco de dados com o nome academidodb ou substitua as configurações na classe `ConnectionUtil.java`
+- De o start na aplicação
+
+
 
 ## Cadastro
 O sistema solicita os dados necessários para a cadastro do curso, insere o novo curso no banco de dados
