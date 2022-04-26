@@ -18,9 +18,20 @@ Para instalar siga estas etapas:
 ```
 Git clone https://github.com/Igorsouza1/Java-Sistema-Cursos.git
 ```
-- Adicione a JRE 14
-- Adicione a dependecia MySQL-Conector-8.0
-- Crie um banco de dados com o nome academidodb ou substitua as configurações na classe `ConnectionUtil.java`
+- Adicione a JRE 11
+- Adicione a dependecia MySQL-Conector-8.0.25 Disponivel em :
+` https://downloads.mysql.com/archives/c-j/`
+
+- Crie um banco de dados com o nome "academicodb" e conecte com seu Login e senha
+- Crie uma tabela chamad Cursos com os seguintes atributos
+`
+   create table Cursos(
+	  codigo PRIMARY KEY AUTO_INCREMENT,
+	  nivel INTEGER,
+    nome CHAR(50),
+    cargahoraria INTEGER,
+    situacao CHAR(50)
+);`
 - De o start na aplicação
 
 
