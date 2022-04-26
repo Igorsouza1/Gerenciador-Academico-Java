@@ -8,7 +8,7 @@ Conexão no banco de dados atraves do JDBC com Banco de dados MySQL.
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-* Você instalou: `<JRE: 14 / MySql-Conector8.0 / MySQLDB`
+* Você instalou: `<JRE: 11 / MySql-Conector8.0.25 / MySQLDB`
 * Você tem uma máquina `<Windows / Linux / Mac>`.
 
 ## 🚀 Usando Java Sistema Academico
